@@ -1,0 +1,25 @@
+{
+  "name": "nikki",
+  "version": "1.0.0",
+  "description": "nikki project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiayunf/nikki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiayunf/nikki/issues"
+  },
+  "homepage": "https://github.com/jiayunf/nikki#readme",
+  "dependencies": {
+    "serverless-python-requirements": "^4.0.1"
+  }
+}

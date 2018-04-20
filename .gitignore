@@ -109,3 +109,6 @@ venv
 
 # PyCharm
 .idea/
+
+# node
+node_modules/
