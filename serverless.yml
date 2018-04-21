@@ -20,10 +20,13 @@ service: my-service
 provider:
   name: aws
   runtime: python3.6
-
-# you can overwrite defaults here
-#  stage: dev
-#  region: us-east-1
+  stage: dev
+  region: us-west-2
+  vpc:
+    securityGroupIds:
+      - sg-80d9b0fe
+    subnetIds:
+      - subnet-89dbfcc1
 
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:

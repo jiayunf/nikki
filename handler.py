@@ -1,8 +1,9 @@
 import json
+import db_client
 
 def hello(event, context):
     body = {
-        "message": "Hello World!",
+        "message": db_client.query(),
         "input": event
     }
 

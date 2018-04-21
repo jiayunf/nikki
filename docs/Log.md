@@ -1,6 +1,10 @@
 # Progress Log
 ---
 
+### 04/21/18
+- DB config
+  - Figured out VPC config and the query is successful now
+
 ### 04/19/18
 - DB select and configuration
   - Want to use AWS Aurora Serverless but found signup required

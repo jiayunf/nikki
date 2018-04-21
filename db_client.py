@@ -15,5 +15,4 @@ def query():
         message = msg
     conn.close()
     return message
-
-print(query())
+#print(query())
