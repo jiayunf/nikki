@@ -1,5 +1,16 @@
 # Progress Log
 ---
+### 04/23/18
+- Learning JavaScript
+  - JS tutorial
+
+
+### 04/22/18
+- Identity Managment
+  - Decided to use Amazon Cognito
+  - Setup Cognito user pool: dev
+- User interface
+  - React tutorial
 
 ### 04/21/18
 - DB config
