@@ -1,9 +1,13 @@
 # Progress Log
 ---
+### 04/24/18
+- Learning React
+  - React tutorial
+  - React frameworks: https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42
+
 ### 04/23/18
 - Learning JavaScript
   - JS tutorial
-
 
 ### 04/22/18
 - Identity Managment
