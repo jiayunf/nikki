@@ -1,13 +1,20 @@
 # Progress Log
 ---
+### 04/25/18
+- Learning Sketch
+  - Sketch tutorial: http://megumi.co/learn/sketch.htm
+- UI Framework
+  - Decided to use Blueprint: http://blueprintjs.com/
+  - Add design files
+
 ### 04/24/18
 - Learning React
-  - React tutorial
+  - React tutorial: https://reactjs.org/tutorial/tutorial.html
   - React frameworks: https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42
 
 ### 04/23/18
 - Learning JavaScript
-  - JS tutorial
+  - JS tutorial: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 ### 04/22/18
 - Identity Managment
