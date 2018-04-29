@@ -1,5 +1,10 @@
 # Progress Log
 ---
+### 04/28/18
+- Design
+  - There will be four pages: index, home, edit and view.
+  - Decided how four pages looks like and finished design
+
 ### 04/25/18
 - Learning Sketch
   - Sketch tutorial: http://megumi.co/learn/sketch.htm
