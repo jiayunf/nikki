@@ -1,6 +1,10 @@
 # Progress Log
 ---
 ### 04/28/18
+- Front End
+  - Basic styling on homepage
+
+### 04/28/18
 - Design
   - There will be four pages: index, home, edit and view.
   - Decided how four pages looks like and finished design
