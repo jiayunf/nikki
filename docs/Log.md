@@ -1,6 +1,6 @@
 # Progress Log
 ---
-### 04/28/18
+### 05/13/18
 - Front End
   - Basic styling on homepage
 
