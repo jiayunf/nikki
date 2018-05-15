@@ -1,9 +1,11 @@
 import React from 'react';
+import { Colors } from "@blueprintjs/core";
 
 const Hello = () => {
     return (
-      <div>
-      <h1>Hello</h1>
+      <div class="box">
+        <div class="left">left</div>
+        <div class="right">right</div>
       </div>
     );
 }

@@ -2,6 +2,10 @@
 ---
 ### 05/13/18
 - Front End
+  - More styling
+
+### 05/13/18
+- Front End
   - Basic styling on homepage
 
 ### 04/28/18
