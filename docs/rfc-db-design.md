@@ -20,6 +20,7 @@
   - Last Name
   - Detail
   - Email
+  - Icon
 - Auth Profile
   - UUID
   - UserUUID
@@ -27,15 +28,13 @@
 - Billing Profile
   - UUID
   - UserUUID
-  - Balance
+  - Current Balance
+  - Subscription Type(Email/Web/Pay as you go)
 - Payment Profile
   - UUID
   - Type
   - Credit Card Number
   - TPToken
-- Pictures
-  - UUID
-  - Link
 
 ### Relations
 - Readings(What people read)
@@ -45,11 +44,15 @@
   - UserUUID
   - ArticlesUUID
 - Billing History
-  - ID
-  - Year
-  - Month
+  - UUID
+  - Time
   - Cost
 - Session
   - UserUUID
   - SessionID
+- Blacklist
+  - ID
+  - Time
+  - UserUUID
+  - Reason
   

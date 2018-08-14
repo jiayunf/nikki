@@ -5,6 +5,7 @@
   - Remove frontend stuff
 - Backend 
   - Design DB
+  - Design API
 
 ### 05/13/18
 - Front End
