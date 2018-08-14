@@ -1,5 +1,11 @@
 # Progress Log
 ---
+### 08/13/18
+- Restart Project
+  - Remove frontend stuff
+- Backend 
+  - Design DB
+
 ### 05/13/18
 - Front End
   - More styling
